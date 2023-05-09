@@ -31,7 +31,7 @@ When I'm not coding, you can find me exploring the great outdoors, experimenting
 🎨 Featured Projects
 
 Event Snaps
-🔗 [Live Demo](#) | [Source Code](https://github.com/Ahaituka/event-snaps-frontend)
+🔗 [Live Demo (Coming Soon)](#) | [Source Code](https://github.com/Ahaituka/event-snaps)
 
 An innovative facial recognition-based platform specifically designed for weddings, events, and special occasions. This application makes it easier than ever to organize, manage, and share photos taken at your event. Leveraging cutting-edge facial recognition technology, EventSnaps compares and groups photos based on the faces detected in them, allowing you to efficiently browse through the captured moments and memories of your special day.
 
